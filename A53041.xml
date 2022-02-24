@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons improvement and the builder's security asserted, by the apparent advantages that will attend their easie charge, in raising such a joint-stock, as may assure a re-building of those houses, which shall hereafter be destroyed by the casualties of fire as it was presented on New-Years-Day last, 1679, to the Right Honourable, Sir Robert Clayton, Kt., the present Lord-Mayor.</title>
+            <author>A. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53041</idno>
+            <idno type="STC">Wing N846</idno>
+            <idno type="STC">ESTC R3601</idno>
+            <idno type="EEBO-CITATION">12892187</idno>
+            <idno type="OCLC">ocm 12892187</idno>
+            <idno type="VID">95129</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95129)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 721:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons improvement and the builder's security asserted, by the apparent advantages that will attend their easie charge, in raising such a joint-stock, as may assure a re-building of those houses, which shall hereafter be destroyed by the casualties of fire as it was presented on New-Years-Day last, 1679, to the Right Honourable, Sir Robert Clayton, Kt., the present Lord-Mayor.</title>
+                  <author>A. N.</author>
+                  <author>Newbold, A.</author>
+               </titleStmt>
+               <extent>[4], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Author by Thomas Milbourn ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: A.N. [i.e. A. Newbold?] cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Securities --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95129:1"/>
+            <pb facs="tcp:95129:1" rendition="simple:additions"/>
+            <p>
+               <hi>Londons Improvement</hi> AND THE Builder's Security ASSERTED, BY THE Apparent Advantages that will Attend their Eaſie Charge, in Raiſing ſuch a Joint-Stock, as may Aſſure a Re-build<g ref="char:EOLhyphen"/>ing of thoſe HOUSES, which ſhall hereafter be De<g ref="char:EOLhyphen"/>ſtroyed BY THE Caſualties of Fire.</p>
+            <p>As it was Preſented on <hi>New-Years-Day</hi> laſt, 1679. to the Right Honourable, Sir <hi>ROBERT CLAYTON,</hi> Kt. the Preſent <hi>Lord-Mayor.</hi>
+            </p>
+            <q>Multorum manibus grande Levatur Onus.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, by <hi>Thomas Milbourn,</hi> in <hi>Jewen-Street,</hi> 1680.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:95129:2"/>
+            <pb facs="tcp:95129:2"/>
+            <head>To the Right Honourable, Sir Robert Clayton, Kt. Lord-Mayor of the CITY of <hi>LONDON;</hi> And to the Right Worſhipful, The <hi>Aldermen,</hi> and the Wor<g ref="char:EOLhyphen"/>ſhipful, the <hi>Common-Council</hi> of the ſaid City.</head>
+            <opener>
+               <salute>My Lord, and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F this <hi>Paper</hi> ſhall preſume with too much Con<g ref="char:EOLhyphen"/>fidence, to Crowd in it Self amidst the weigh<g ref="char:EOLhyphen"/>tyeſt of Your Affairs; and the <hi>Diſcourſe</hi> therein be found too Weak, to make good thoſe Publick <hi>Advantages</hi> promiſed in the <hi>Title:</hi> Be pleaſed, in Favour of the <hi>Good Intention</hi> of the <hi>Deſigner,</hi> to Receive it as a Well-meant <hi>New-Year's-Gift,</hi> Offered to the Common Good of the <hi>City.</hi>
+            </p>
+            <p>The <hi>Deſign</hi> it brings with it, Is chiefly for the <hi>Improve<g ref="char:EOLhyphen"/>ment of the City-Buildings;</hi> by propoſing a Way for the Raiſing ſuch a <hi>Joint-Stock,</hi> as may Aſſure the <hi>Re-build<g ref="char:EOLhyphen"/>ing</hi> of their <hi>Caſualties</hi> happening by <hi>Fire.</hi>
+            </p>
+            <p>The <hi>Undertaking</hi> ſeems ſo Great and Hazardous, that a <hi>Million</hi> of Pounds <hi>Sterling,</hi> may be expected with it, to make it Practicable, to the Satisfaction of the ſeveral Inter<g ref="char:EOLhyphen"/>eſſed.</p>
+            <p>This pretends not to be Accompanyed with ſuch a <hi>Bank;</hi> and yet in Proſpect, it may equally Anſwer the Expectation of thoſe that may be Concerned; and the <hi>Purchaſe</hi> thereof may be
+<pb facs="tcp:95129:3"/>at a much Eaſier Rate, than can Rationally be Contracted for, with any <hi>Bank</hi> in the World.</p>
+            <p>It cannot better be Compared, than to that in Practice a<g ref="char:EOLhyphen"/>mongſt the <hi>Gentlemen of His Majeſty's Life-Guard;</hi> who, at this Day, by a Mutual Agreement, Contribute towards the <hi>Buying of Horſes</hi> for their <hi>Fellow-Soldiers,</hi> which either Dye, or become <g ref="char:V">Ʋ</g>nſerviceable; whereby the <hi>Rider</hi> is again ſpeedily Mounted at the <hi>Common Charge;</hi> to which, per<g ref="char:EOLhyphen"/>haps, his <hi>Peculiar Stock</hi> could not eaſily Arrive.</p>
+            <p>It is now deſigned, that the <hi>Houſes</hi> which ſhall he Burnt down, may proportionably with as much Eaſe to the Pro<g ref="char:EOLhyphen"/>prietors, be <hi>Rebuilt</hi> amongſt themſelves, as thoſe <hi>Horſes</hi> are <hi>Bought</hi> at the ſmall Charge of the <hi>Riders.</hi>
+            </p>
+            <p>Should Your <hi>Lordſhip,</hi> with the Right Worſhipful the <hi>Aldermen</hi> and <hi>Common-Council,</hi> upon the Peruſal, approve the <hi>Deſign</hi> to be for a <hi>Publick Good;</hi> I ſhall not doubt of Your Zeal, in Promoting it that it may be made to appear the ſame in <hi>Practice,</hi> as it is Preſented in the <hi>Propoſals:</hi> Only, let me beg, That if it falls ſhort of the <hi>End</hi> that it promiſes, That You would be pleaſed to Pardon the <hi>Preſumption</hi> of Him, who out of a Tender Affection to his <hi>Country,</hi> and the Place of his <hi>Nativity,</hi> with all humble Submiſſion, Dedicates this <hi>Offering</hi> to the Greater Wiſdom of Your <hi>Lordſhip:</hi> And with all <hi>Reverence</hi> and <hi>Reſpect,</hi> Subſcribes himſelf,</p>
+            <closer>
+               <signed>
+                  <hi>My Lord, Your Lordſhips moſt Humble Servant,</hi> A. N.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:95129:3"/>
+            <head>Londons Improvement, AND THE Builders Security, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE ſeveral Fruitleſs Attempts that have been made, in projecting a Deſign for Aſſuring the Building of Hou<g ref="char:EOLhyphen"/>ſes Burnt down, may be ſome Diſcouragement to offer more on that Subject: But This being well Approved of by many, to carry nothing with It but the Com<g ref="char:EOLhyphen"/>mon and Publick Good, after ſome Years lying by, is, at their Importunity, now expoſed to a more General Cen<g ref="char:EOLhyphen"/>ſure. And that the Deſign may appear to be Rationally Practicable, and Beneficial for the Publick Good, it will be neceſſary, <hi>Firſt,</hi> To conſider the Original of Aſſurances amongſt Merchants: Upon Enquiry whereof, it will be found, that the Loſſes and Impoveriſhment, which have attended many by great Adventures in one Bottom, was undoubtedly the Cauſe that firſt Introduced thoſe Aſſurances. And by that Means, there was a Mutual Agreement on a <hi>Praemio,</hi> or Conſideration, That a Loſs might be made Good, and divided amongſt Many; which otherwayes might have fallen to a Particular Perſon, or ſome few Perſons, to his, or their great Detriment, and Ruin.</p>
+            <p>This Laudable Cuſtom of Aſſurances, hath by Experience been found ſo ne<g ref="char:EOLhyphen"/>ceſſary for the Support of Traders, that it hath been continued for many Ages; and is in Practice in moſt Parts of the World, at this Day. The Demoliſh<g ref="char:EOLhyphen"/>ment by Fire of the City-Buildings, may be of like Detriment, and Impoveriſh<g ref="char:EOLhyphen"/>ment to thoſe Proprietors.</p>
+            <p>This Fate being ſo Epidemical to them, that none knows how ſoon his Eſtate in thoſe Buildings may be buryed in its own Aſhes; Reaſon and Ex<g ref="char:EOLhyphen"/>perience, which hath introduced and continued the Cuſtom of Aſſurances a<g ref="char:EOLhyphen"/>mongſt Merchants, will direct the like Security to be admitted of, for Re-build<g ref="char:EOLhyphen"/>ing and Repairing the Caſualties of Houſes by Fire, to thoſe Proprietors and Inhabitants; both being Adventurers at a Hazard, though in a different kind and Element. And though the late New-Brick-Buildings in the City of <hi>London,</hi> are Reaſonably well Defended by their Thick Party-Walls; yet, by ſad Experience we find, each particular Man's Intereſt in thoſe Incloſures, is, by the Effects of a ſmall Spark miſplaced, ſtill lyable to be carryed away with a Flame: And when ſuch an Accident of Fire ſhall happen to lay Level the Subſiſtance and In-come of the <hi>Inhabitant</hi> or <hi>Proprietor</hi> (who is not in a Capacity to Re-build thoſe Caſual<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="2" facs="tcp:95129:4"/>thoſe Candle-Rents to ſuch are little better than for ever Extinguiſhed. Former Ages have felt the Strokes of this Formidable Enemy: We of late Years have ſeen a great part of our City laid in Aſhes, by its Furious Rage. And who, though the laſt Burnt down, can be ſo ſecured, as not to be the next Demoliſh<g ref="char:EOLhyphen"/>ed by Fire? This is our general Hazard and Grievance. And yet, At what a Cheap Rate might the Builders and Proprietors give themſelves Eaſe in a great Meaſure, by counterballancing theſe Inconveniences? If we take an Account of the Houſes in the City of <hi>London,</hi> they will be found ſo Conſiderable in Num<g ref="char:EOLhyphen"/>ber and Value, that an Advance of Five Pounds <hi>per Cent.</hi> (though but of one Third Part of the Proprietors of the late New Brick-Buildings) in Proportion to the Value of thoſe Houſes, would raiſe a ſufficient Joint-Stock, to aſſure a Rebuild<g ref="char:EOLhyphen"/>ing of every Caſualty of Fire, which may happen amongſt them. A Proſpect of ſome things Conſiderable, which will accompany the Deſign, (to the Bene<g ref="char:EOLhyphen"/>fit of the Proprietors, and the general Good of the City) are hereunto added, and left to the Conſideration of ſuch as may be concerned in it.</p>
+            <p>
+               <hi>Firſt,</hi> That which will make the Deſign practicable at an eaſie Rate and Charge, muſt be, the mutual Agreement of a conſiderable Part of the Inhabi<g ref="char:EOLhyphen"/>tants and Proprietors, to become Adventurers in raiſing the Joint-Stock, for diſ<g ref="char:EOLhyphen"/>charge of the Undertaking: Many Hands Contributing, lightens the Loſs, and gives Eaſe in the Charge of the Re-building and Repairing. Upon a Mode<g ref="char:EOLhyphen"/>rate Calculation of the City New-Brick-Buildings, and their late Years Caſual<g ref="char:EOLhyphen"/>ties by <hi>Fire;</hi> if but one Third Part of thoſe Inhabitants and Proprietors ſhould make their Subſcriptions of Five <hi>per Cent.</hi> according to the Value of their Hou<g ref="char:EOLhyphen"/>ſes, or Charge of Rebuilding, a Joint-Stock of <hi>Fifty Thouſand Pounds</hi> might be raiſed amongſt themſelves, for carrying on this Deſign. We will believe, there are not leſs than <hi>Twelve Thouſand</hi> Houſes of the late New Brick-Buildings, in the Ci<g ref="char:EOLhyphen"/>ty of <hi>London:</hi> Theſe, one with the other, may be Eſteemed in their Value, or Charge of Re-building, at <hi>Two Hundred</hi> and <hi>Fifty</hi> Pounds <hi>per Houſe;</hi> which, at <hi>Five</hi> Pounds <hi>per Cent.</hi> will be <hi>Twelve</hi> Pounds, <hi>Ten</hi> Shillings on each Houſe. So that, <hi>Four Thouſand</hi> Houſes (the Third Part of thoſe Buildings, at <hi>Twelve</hi> Pounds <hi>Ten</hi> Shillings <hi>per Houſe</hi>) will amount to <hi>Fifty Thouſand</hi> Pounds. But ſhould Subſcrip<g ref="char:EOLhyphen"/>tions be made only of <hi>Two</hi> Pounds <hi>per Cent.</hi> for the whole Number of thoſe <hi>Twelve Thouſand</hi> Houſes, in proportion to their ſaid Value, a Joint-Stock of <hi>Threeſcore Thouſand</hi> Pounds might be raiſed amongſt themſelves, for diſcharge of the Undertaking. And in probability, ſuch a Stock, with the Improvement, might for ever perpetuate the Re-building of all the Caſualties by <hi>Fire,</hi> hap<g ref="char:EOLhyphen"/>pening to thoſe Adventurers. And as it may be employed, in few Years they may receive Dividents out of the Improvement. So that, a perpetuated Aſſu<g ref="char:EOLhyphen"/>rance for a Re-building, <hi>&amp;c.</hi> to be made by a Joint-Stock, raiſed in propor<g ref="char:EOLhyphen"/>tion to the Value of the Houſes, will be found to be more Advantagious, and purchaſed at a much eaſier Charge, or <hi>Praemio,</hi> to the Adventurers, than ſhould ſuch an Aſſurance be undertaken, but for One Years time, by a private Hand.</p>
+            <p>
+               <hi>Secondly,</hi> This Joint-Stock thus to be raiſed for diſcharge of this Underta<g ref="char:EOLhyphen"/>king, will cauſe a Mutual Participation of Rejoycing one with another, in their Preſervation; and will be a Comfortable Relief, and a Secured Reparation, in caſe of Future Demoliſhments. And undoubtedly, this Security, as it will be an eaſie Purchaſe, ſo it will be more Safe and Satisfactory, and more Acceptable to them, than ſhould any other Aſſurance be attempted to be ſet on Foot, by a private Hand, and tending to a private Profit.</p>
+            <pb n="3" facs="tcp:95129:4"/>
+            <p>
+               <hi>Thirdly,</hi> This Aſſurance will be Purchaſed at an Eaſie Rate, for the Securi<g ref="char:EOLhyphen"/>ty and Relief of the <hi>Widow, Orphan, Aged paſt their Labour,</hi> and ſuch others, not in a Capacity of Re-building; whoſe whole Maintenance may depend on a Hazardous In-come, by a ſmall Rent of Houſes.</p>
+            <p>Nor can this eaſy Charge of Re-building, <hi>&amp;c.</hi> be otherwayes than welcome, to thoſe in a better Condition than the Former. Theſe, as they have a grea<g ref="char:EOLhyphen"/>ter Concern in Buildings, have a greater Value hazardous to Demoliſhment; and are not more exempted from this Fate, than the others: Nor can any ſuch Intereſſed aſſure himſelf, that he ſhall not be the Firſt that may have Cauſe to wiſh for this Publick Reparation.</p>
+            <p>
+               <hi>Fourthly,</hi> That as the Adventurers do in one proportion Contribute towards raiſing this Joint-Stock, and each Building is equally lyable to <hi>Fire;</hi> none knowing which ſhall be the Firſt, or Laſt, that may be Burnt down; or how often the Caſualty of <hi>Fire</hi> may be repeated to one and the ſame Fabrick: So, whil'ſt any of the ſaid intended Joint-Stock ſhall remain unexhauſted, the Re-building and Repairing muſt be as often repeated out of the ſame. And theſe multiplyed Reparations, and perpetuated Advantages, upon one Conſideration or <hi>Praemio,</hi> cannot be parallel'd on any other Method of Aſſurances, than this by a Joint-Stock.</p>
+            <p>
+               <hi>Fifthly,</hi> By this Aſſurance of Re-building, <hi>&amp;c.</hi> the Brick-Buildings in this Ci<g ref="char:EOLhyphen"/>ty, would in a great Meaſure be acquitted of their Name of Candle-Rents. Thoſe Houſes would be eſteemed a good Settlement on Marriage, for the Pro<g ref="char:EOLhyphen"/>viſion of Wives and Children: And likewiſe, may be offered as a good Secu<g ref="char:EOLhyphen"/>rity for the Supply of the Occaſions of the Intereſſed.</p>
+            <p>
+               <hi>Sixthly,</hi> The Inhabitant, or Tenant, by this Aſſurance made to him, will un<g ref="char:EOLhyphen"/>doubtedly enjoy his Habitation, (either the Former, or Latter Re-built.) For the Term of Years he may be concerned in it, he will in a great Meaſure be ſe<g ref="char:EOLhyphen"/>cured from his Covenants of Reparations: And in a ſhort time, after every ſuch Accident of <hi>Fire,</hi> he will be reſtored again to his Houſe, and Trade; with<g ref="char:EOLhyphen"/>out which, poſſibly, he might never return to Either.</p>
+            <p>If the Landlord will not join with the Tenant to perpetuate the Aſſurance, he may be admitted only for his Term of Years; when Abatement will be made him proportionable for the time, to his Satisfaction, <hi>&amp;c.</hi>
+            </p>
+            <p>Nor can ſuch Inhabitant, or Tenant, who ſhall neglect to make his own Security, reaſonably propoſe, that any other Aſſurance, which may be made with this intended Joint-Stock, ſhall give him Eaſe in his Covenants with his Land<g ref="char:EOLhyphen"/>lord for ſuch Reparation, or Re-building, in caſe of Caſualty by <hi>Fire.</hi>
+            </p>
+            <p>
+               <hi>Seventhly,</hi> When the Inhabitant, or Tenant, will not be at the Charge of this Aſſurance for his own Security, it will be the Landlord's Intereſt to do it for himſelf: His Eſtate will be advanced in the Value from <hi>Twelve</hi> Years Purchaſe, to <hi>Sixteen</hi> Years Purchaſe, upon the Sales thereof; and will Amount to <hi>Four</hi> times the Value of the Money, which he Disburſeth towards raiſing the Joint-Stock. So that, the great Security and Improvement to his Eſtate, is purcha<g ref="char:EOLhyphen"/>ſed at an inconſiderable Hazard, either of Money or Caſualty. If towards the raiſing of this Joint-Stock, he puts in <hi>Five</hi> Pounds <hi>per Cent.</hi> on the Charge of <hi>Re-building,</hi> How ſmall is that to the Value of his Eſtate, ſecured; eſpecially, when in few Years, he may be receiving Part thereof again by Dividents, out of the Improvement of the Stock? Or, What can the Hazard be of any Va<g ref="char:EOLhyphen"/>luable Devaſtation amongſt thoſe Buildings, when we know, they are Guarded with ſo many Thouſand Ranks of Party-Brick-Walls? And conſequently, What
+<pb n="4" facs="tcp:95129:5"/>(probably) can be his Proportion of the Loſs on any Caſualty; when it is apparent, If this Joint-Stock be raiſed, ſhould a Houſe to the Value of <hi>One Thou<g ref="char:EOLhyphen"/>ſand</hi> Pounds, be Burnt down, <hi>Five</hi> Shillings <hi>per</hi> each Houſe, on <hi>Four Thouſand</hi> Houſes, will make good that Loſs: And ſo proportionably, a greater or leſſer Caſualty might be <hi>Repaired</hi> amongſt thoſe Adventurers?</p>
+            <p>The Covenants with the beſt of Tenants for <hi>Re-building,</hi> is not of that Secu<g ref="char:EOLhyphen"/>rity, Continuance, or Improvement to the Eſtate, as may be promiſed by an Aſſurance of this Joint-Stock.</p>
+            <p>
+               <hi>Eighthly,</hi> This Deſign ſet on foot by this Joint-Stock, might be of General Good and Benefit to the whole City, and Inhabitants, by having in readyneſs a further Supply of Perſons of Skill, for managing of Engines, Buckets, <hi>&amp;c.</hi> And may ſome otherwayes be Improved for the Publick Good, no leſs for the Relief of the Poor, than for the Conveniency of others, the Inhabitants of the City.</p>
+            <p>
+               <hi>Ninethly,</hi> The Caſualties which may happen by <hi>Fire</hi> amongſt the Timber-Houſes, are in a greater Proportion, more Violent, and Hazardous; and will not, on equal Terms, be admitted into a Joint-Adventure for Aſſurances, with thoſe of the Brick-Buildings; though the Method prepared to carry on the De<g ref="char:EOLhyphen"/>ſign for the <hi>Re-building</hi> of Brick-Houſes, with ſmall Alteration, may be made Practicable, as well for the Benefit of the Intereſſed in Timber-Houſes, as of all other Cities and Places in the World, Numerous and Eminent for Buildings.</p>
+            <p>
+               <hi>Tenthly,</hi> The Management of the ſaid intended Joint-Stock, and the Imployment, with the Improvement thereof, will be ſolely at the Directions, and for the Uſe and Benefit of ſuch the Proprietors, and Inhabitants, who ſhall be Adven<g ref="char:EOLhyphen"/>turers in raiſing the ſaid Stock; they undoubtedly will be moſt diligent to con<g ref="char:EOLhyphen"/>ſult their own Intereſt, and Security; as we find it in the Adventurers of the <hi>Eaſt-India-Company, Guinney-Company,</hi> and other <hi>Corporations.</hi>
+            </p>
+            <p>The great Care of the Adventurers, will be in their Choiſe of Perſons of Ho<g ref="char:EOLhyphen"/>neſty, and Ability, who may faithfully diſcharge their Truſt, in managing their Stock; whereby it may be beſt ſecured, and imployed, for Diſcharge of that Undertaking it is raiſed for.</p>
+            <p>The Deſign may be ſet on Foot, by his <hi>Majeſty</hi>'s Gracious Letters Patents, for Erecting a <hi>Corporation:</hi> And undoubtedly, in the Managing, muſt diſcover thoſe Advantages, which at this diſtance cannot be fore-ſeen. The Method to make the Deſign Practicable, will be produced, when the Proprietors and and Inhabitants of the Houſes, ſhall be prepared for raiſing the Stock; or that it may be any wayes Uſeful for a Publick Good.</p>
+            <p>If it ſhould be asked, <hi>Where this Joint-Stock ſhall be Lodged?</hi> or, <hi>How it ſhall be Imployed and Improved?</hi> It is Anſwered, It will be at the Diſpoſal of the <hi>Cor<g ref="char:EOLhyphen"/>poration;</hi> which probably by them may be fixed in the <hi>Chamber of London,</hi> (an Undoubted Security) or may be otherwayes diſpoſed of, at their Diſcretion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
